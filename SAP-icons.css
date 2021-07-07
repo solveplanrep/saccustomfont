@@ -3,9 +3,9 @@
 @font-face {
 	font-family: 'SAP Fiori Icons';
 	src:
-		url('https://andreymn.github.io/customfontssac/SAP-icons.woff2') format('woff2'),
-		url('https://andreymn.github.io/customfontssac/SAP-icons.woff') format('woff'),
-		url('https://andreymn.github.io/customfontssac/SAP-icons.ttf') format('truetype');
+		url('https://solveplanrep.github.io/saccustomfont/SAP-icons.woff2') format('woff2'),
+		url('https://solveplanrep.github.io/saccustomfont/SAP-icons.woff') format('woff'),
+		url('https://solveplanrep.github.io/saccustomfont/SAP-icons.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
